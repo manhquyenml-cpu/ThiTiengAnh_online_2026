@@ -1,0 +1,452 @@
+[
+  {
+    "id": "q1",
+    "part": 1,
+    "category": "Giao tiếp hàng ngày",
+    "level": "A1",
+    "question": "When meeting an exchange student for the first time, what is the most polite greeting?",
+    "options": [
+      "Goodbye, see you soon!",
+      "Nice to meet you! Where are you from?",
+      "Why are you here?",
+      "Give me your phone number."
+    ],
+    "correct": 1,
+    "explanation": "'Nice to meet you! Where are you from?' (Rất vui được gặp bạn! Bạn đến từ đâu?) là câu chào hỏi và làm quen lịch sự, tự nhiên nhất trong giao tiếp tiếng Anh cơ bản."
+  },
+  {
+    "id": "q2",
+    "part": 1,
+    "category": "Văn hóa học đường",
+    "level": "A1",
+    "question": "What should you say if you want to borrow a classmate's pen?",
+    "options": [
+      "Could I borrow your pen for a moment, please?",
+      "Give me that pen now!",
+      "I need a pen, do you have eyes?",
+      "This pen is mine."
+    ],
+    "correct": 0,
+    "explanation": "'Could I borrow your pen for a moment, please?' (Mình có thể mượn bút bạn một lát được không?) là mẫu câu đề nghị lịch sự với cấu trúc 'Could I... please?'."
+  },
+  {
+    "id": "q3",
+    "part": 1,
+    "category": "Hỏi đường",
+    "level": "A2",
+    "question": "A foreign tourist asks you: \"Excuse me, how can I get to the local library?\" What is the best reply?",
+    "options": [
+      "I don't read books.",
+      "Go straight ahead and turn left at the traffic lights. It's on your right.",
+      "The library is full of books.",
+      "You should stay at home."
+    ],
+    "correct": 1,
+    "explanation": "'Go straight ahead and turn left at the traffic lights. It's on your right.' (Đi thẳng và rẽ trái ở cột đèn giao thông. Nó ở bên tay phải bạn) là cách chỉ đường rõ ràng, chuẩn xác."
+  },
+  {
+    "id": "q4",
+    "part": 1,
+    "category": "Ngữ pháp cơ bản",
+    "level": "A2",
+    "question": "Look at the sky! Dark clouds are gathering. It _______ rain soon.",
+    "options": [
+      "is going to",
+      "rains",
+      "rained",
+      "has rained"
+    ],
+    "correct": 0,
+    "explanation": "Dùng thì tương lai gần 'is going to' khi diễn tả một sự việc sắp xảy ra dựa trên dấu hiệu hiện tại rõ ràng ('Dark clouds are gathering')."
+  },
+  {
+    "id": "q5",
+    "part": 1,
+    "category": "Giao tiếp học đường",
+    "level": "A1",
+    "question": "If you arrive at class 10 minutes late due to traffic, what should you say to your teacher?",
+    "options": [
+      "I am here, start teaching.",
+      "I'm sorry for being late. May I come in, teacher?",
+      "Traffic was bad, not my fault.",
+      "Good morning, see you tomorrow."
+    ],
+    "correct": 1,
+    "explanation": "'I'm sorry for being late. May I come in, teacher?' (Em xin lỗi vì đến muộn. Em có thể vào lớp được không ạ?) là mẫu câu xin lỗi và xin phép vào lớp văn minh, chuẩn mực."
+  },
+  {
+    "id": "q6",
+    "part": 1,
+    "category": "Từ vựng thông dụng",
+    "level": "A2",
+    "question": "Which activity helps high school students improve global communication skills the most?",
+    "options": [
+      "Staying silent during presentations",
+      "Joining international youth exchange programs and English speaking clubs",
+      "Copying homework from friends",
+      "Playing video games all day"
+    ],
+    "correct": 1,
+    "explanation": "Tham gia các chương trình giao lưu thanh niên quốc tế và câu lạc bộ tiếng Anh ('Joining international youth exchange programs and English speaking clubs') giúp nâng cao năng lực hội nhập và phản xạ ngoại ngữ."
+  },
+  {
+    "id": "q7",
+    "part": 1,
+    "category": "Đọc hiểu thông báo",
+    "level": "A2",
+    "question": "Notice on the school board: \"Volunteers needed for ASEAN Youth Culture Day this Saturday at 8 AM in the Grand Hall.\" - What is the announcement about?",
+    "options": [
+      "A football match on Sunday",
+      "Recruiting volunteers for a cultural event on Saturday morning",
+      "A science exam in the classroom",
+      "A holiday trip to Singapore"
+    ],
+    "correct": 1,
+    "explanation": "Thông báo tuyển tình nguyện viên ('Volunteers needed') cho Ngày hội văn hóa thanh niên ASEAN vào sáng thứ Bảy tại Hội trường lớn."
+  },
+  {
+    "id": "q8",
+    "part": 1,
+    "category": "Ngữ pháp cơ bản",
+    "level": "A1",
+    "question": "My best friend _______ three languages fluently: Vietnamese, English, and French.",
+    "options": [
+      "speak",
+      "speaks",
+      "speaking",
+      "are speaking"
+    ],
+    "correct": 1,
+    "explanation": "Chủ ngữ ngôi thứ ba số ít 'My best friend' trong thì hiện tại đơn đi với động từ thêm 's' -> 'speaks'."
+  },
+  {
+    "id": "q9",
+    "part": 1,
+    "category": "Từ vựng thông dụng",
+    "level": "A2",
+    "question": "When meeting people from different countries, having an _______ mindset helps you learn from their cultures.",
+    "options": [
+      "open-minded",
+      "angry",
+      "selfish",
+      "afraid"
+    ],
+    "correct": 0,
+    "explanation": "'open-minded' (tư duy cởi mở, sẵn sàng đón nhận điều mới) là phẩm chất quan trọng của công dân toàn cầu khi tiếp xúc các nền văn hóa."
+  },
+  {
+    "id": "q10",
+    "part": 1,
+    "category": "Giao tiếp hàng ngày",
+    "level": "A2",
+    "question": "Someone says: \"Thank you very much for showing me around Ho Chi Minh City!\" How do you reply politely?",
+    "options": [
+      "You're welcome! It was my pleasure.",
+      "Never mind, pay me money.",
+      "Yes, I know I'm great.",
+      "Goodbye, go away."
+    ],
+    "correct": 0,
+    "explanation": "'You're welcome! It was my pleasure.' (Không có chi! Đó là niềm vinh hạnh của mình) là câu đáp lại lời cảm ơn vô cùng lịch sự và thân thiện."
+  },
+  {
+    "id": "q11",
+    "part": 1,
+    "category": "Ngữ pháp cơ bản",
+    "level": "A2",
+    "question": "Vietnam is _______ than many other countries in biodiversity and natural landscapes.",
+    "options": [
+      "richer",
+      "rich",
+      "richest",
+      "more rich"
+    ],
+    "correct": 0,
+    "explanation": "Tính từ ngắn 'rich' ở dạng so sánh hơn là 'richer' (đi kèm 'than')."
+  },
+  {
+    "id": "q12",
+    "part": 1,
+    "category": "Hội thoại ngắn",
+    "level": "A1",
+    "question": "Anna: \"Would you like to come to our Youth Club festival tonight?\" - Peter: \"_______\"",
+    "options": [
+      "I'd love to! What time does it start?",
+      "No, you are wrong.",
+      "I am eating now.",
+      "I was born in 2008."
+    ],
+    "correct": 0,
+    "explanation": "'I'd love to! What time does it start?' (Mình rất thích! Mấy giờ nó bắt đầu vậy?) là câu nhận lời mời dự lễ hội nhiệt tình và đúng ngữ cảnh."
+  },
+  {
+    "id": "q13",
+    "part": 1,
+    "category": "Từ vựng trường học",
+    "level": "A1",
+    "question": "Students must wear their school _______ every Monday morning for the flag ceremony.",
+    "options": [
+      "uniform",
+      "pajamas",
+      "swimsuit",
+      "sunglasses"
+    ],
+    "correct": 0,
+    "explanation": "'school uniform' (đồng phục học sinh) là trang phục quy định trong lễ chào cờ đầu tuần."
+  },
+  {
+    "id": "q14",
+    "part": 1,
+    "category": "Ngữ pháp cơ bản",
+    "level": "A2",
+    "question": "Last summer, our youth volunteer team _______ trees in the community park.",
+    "options": [
+      "plant",
+      "plants",
+      "planted",
+      "is planting"
+    ],
+    "correct": 2,
+    "explanation": "Trạng từ chỉ thời gian quá khứ 'Last summer' yêu cầu chia động từ ở thì quá khứ đơn (Past Simple): 'planted'."
+  },
+  {
+    "id": "q15",
+    "part": 1,
+    "category": "Đọc hiểu biển báo",
+    "level": "A1",
+    "question": "A sign at the international library reads: \"PLEASE SILENCE YOUR MOBILE PHONES\". What does it mean?",
+    "options": [
+      "You must not speak loudly on your phone or let it ring.",
+      "You should buy a new phone.",
+      "You can play loud music on your phone.",
+      "Phones are completely broken."
+    ],
+    "correct": 0,
+    "explanation": "Biển báo yêu cầu chuyển điện thoại sang chế độ im lặng, không nghe gọi ồn ào hoặc để chuông reo trong thư viện."
+  },
+  {
+    "id": "q16",
+    "part": 1,
+    "category": "Giao tiếp hàng ngày",
+    "level": "A2",
+    "question": "How do you introduce your Vietnamese culture to a new international pen pal?",
+    "options": [
+      "\"Vietnamese people are very hospitable, and we have delicious dishes like Pho and Banh Mi.\"",
+      "\"We do not have any special food.\"",
+      "\"Don't visit my country.\"",
+      "\"I only like Western food.\""
+    ],
+    "correct": 0,
+    "explanation": "Giới thiệu văn hóa Việt Nam tự hào, nồng hậu ('hospitable': mến khách) cùng các món ăn đặc sắc như Phở và Bánh Mì."
+  },
+  {
+    "id": "q17",
+    "part": 1,
+    "category": "Ngữ pháp cơ bản",
+    "level": "A2",
+    "question": "To become a good global citizen, you _______ respect cultural diversity.",
+    "options": [
+      "should",
+      "shouldn't",
+      "cannot",
+      "didn't"
+    ],
+    "correct": 0,
+    "explanation": "Động từ khuyết thiếu 'should' (nên) dùng để đưa ra lời khuyên đúng đắn: nên tôn trọng sự đa dạng văn hóa."
+  },
+  {
+    "id": "q18",
+    "part": 1,
+    "category": "Từ vựng thông dụng",
+    "level": "A2",
+    "question": "What is the English term for \"di sản thế giới\" recognized by UNESCO?",
+    "options": [
+      "World Heritage",
+      "Global Supermarket",
+      "City Building",
+      "International Airport"
+    ],
+    "correct": 0,
+    "explanation": "'World Heritage' là thuật ngữ tiếng Anh chính xác chỉ Di sản Thế giới được UNESCO công nhận."
+  },
+  {
+    "id": "q19",
+    "part": 2,
+    "category": "Cộng đồng ASEAN",
+    "level": "A2",
+    "question": "Hiệp hội các quốc gia Đông Nam Á có tên viết tắt tiếng Anh là gì?",
+    "options": [
+      "APEC",
+      "ASEAN",
+      "UNESCO",
+      "UNICEF"
+    ],
+    "correct": 1,
+    "explanation": "ASEAN là viết tắt của 'Association of Southeast Asian Nations' (Hiệp hội các quốc gia Đông Nam Á)."
+  },
+  {
+    "id": "q20",
+    "part": 2,
+    "category": "Lịch sử ASEAN",
+    "level": "A2",
+    "question": "Hiệp hội các quốc gia Đông Nam Á (ASEAN) được thành lập vào ngày, tháng, năm nào?",
+    "options": [
+      "08/08/1967",
+      "02/09/1945",
+      "28/07/1995",
+      "01/01/2000"
+    ],
+    "correct": 0,
+    "explanation": "ASEAN được thành lập ngày 8 tháng 8 năm 1967 tại thủ đô Bangkok (Thái Lan) với 5 nước sáng lập đầu tiên: Indonesia, Malaysia, Philippines, Singapore và Thái Lan."
+  },
+  {
+    "id": "q21",
+    "part": 2,
+    "category": "Việt Nam và ASEAN",
+    "level": "A2",
+    "question": "Việt Nam chính thức trở thành thành viên thứ 7 của Hiệp hội các quốc gia Đông Nam Á (ASEAN) vào năm nào?",
+    "options": [
+      "1986",
+      "1995",
+      "2000",
+      "2007"
+    ],
+    "correct": 1,
+    "explanation": "Việt Nam chính thức gia nhập ASEAN vào ngày 28/07/1995 tại Hội nghị Bộ trưởng Ngoại giao ASEAN lần thứ 28 tại Brunei."
+  },
+  {
+    "id": "q22",
+    "part": 2,
+    "category": "Địa lý ASEAN",
+    "level": "A1",
+    "question": "Thủ đô của đất nước Thái Lan là thành phố nào?",
+    "options": [
+      "Jakarta",
+      "Kuala Lumpur",
+      "Bangkok",
+      "Manila"
+    ],
+    "correct": 2,
+    "explanation": "Bangkok là thủ đô và là trung tâm kinh tế, văn hóa lớn nhất của Vương quốc Thái Lan."
+  },
+  {
+    "id": "q23",
+    "part": 2,
+    "category": "Biểu tượng ASEAN",
+    "level": "A2",
+    "question": "Hình ảnh bó lúa trên biểu trưng (logo) chính thức của ASEAN tượng trưng cho điều gì?",
+    "options": [
+      "Sự no ấm, gắn kết tình hữu nghị và thịnh vượng của các quốc gia Đông Nam Á",
+      "Ngành sản xuất ô tô xuất khẩu",
+      "Thời tiết nhiệt đới gió mùa",
+      "Môn thể thao bóng đá SEA Games"
+    ],
+    "correct": 0,
+    "explanation": "Biểu trưng ASEAN gồm 10 nhánh lúa được bó lại, tượng trưng cho ước mơ của các nhà lập quốc về một ASEAN gắn kết, hữu nghị, tương thân tương ái và thịnh vượng."
+  },
+  {
+    "id": "q24",
+    "part": 2,
+    "category": "Trụ sở ASEAN",
+    "level": "A2",
+    "question": "Trụ sở Ban Thư ký ASEAN (ASEAN Secretariat) được đặt tại thành phố nào?",
+    "options": [
+      "Hà Nội (Việt Nam)",
+      "Singapore",
+      "Jakarta (Indonesia)",
+      "Vientiane (Lào)"
+    ],
+    "correct": 2,
+    "explanation": "Trụ sở chính của Ban Thư ký ASEAN được đặt tại thủ đô Jakarta, Indonesia từ năm 1976."
+  },
+  {
+    "id": "q25",
+    "part": 2,
+    "category": "Thủ đô ASEAN",
+    "level": "A1",
+    "question": "Thủ đô của đất nước láng giềng Lào có chung đường biên giới với Việt Nam là gì?",
+    "options": [
+      "Vientiane (Viêng Chăn)",
+      "Phnom Penh",
+      "Naypyidaw",
+      "Bandar Seri Begawan"
+    ],
+    "correct": 0,
+    "explanation": "Vientiane (Viêng Chăn) là thủ đô thanh bình của nước Cộng hòa Dân chủ Nhân dân Lào."
+  },
+  {
+    "id": "q26",
+    "part": 2,
+    "category": "Di sản thế giới",
+    "level": "A2",
+    "question": "Di sản văn hóa quần thể đền đài nổi tiếng thế giới Angkor Wat tọa lạc tại quốc gia ASEAN nào?",
+    "options": [
+      "Campuchia",
+      "Myanmar",
+      "Brunei",
+      "Malaysia"
+    ],
+    "correct": 0,
+    "explanation": "Quần thể di tích đền đài Angkor Wat là niềm tự hào văn hóa lớn của Vương quốc Campuchia và là kỳ quan nổi tiếng thế giới."
+  },
+  {
+    "id": "q27",
+    "part": 2,
+    "category": "Bản sắc Việt Nam",
+    "level": "A2",
+    "question": "Phương châm nào thể hiện tinh thần của tuổi trẻ Việt Nam trong quá trình hội nhập quốc tế?",
+    "options": [
+      "Tách biệt hoàn toàn, không giao lưu",
+      "Hòa nhập nhưng không hòa tan, giữ gìn bản sắc văn hóa dân tộc",
+      "Từ bỏ truyền thống để theo đuổi phong cách ngoại quốc",
+      "Chỉ sử dụng tiếng nước ngoài, bỏ tiếng mẹ đẻ"
+    ],
+    "correct": 1,
+    "explanation": "'Hòa nhập nhưng không hòa tan' nghĩa là chủ động tiếp thu tinh hoa tri thức nhân loại, đồng thời luôn trân trọng, gìn giữ và quảng bá cội nguồn văn hóa Việt Nam."
+  },
+  {
+    "id": "q28",
+    "part": 2,
+    "category": "Ứng xử không gian mạng",
+    "level": "A1",
+    "question": "Hành động nào sau đây là văn minh và chuẩn mực khi tham gia mạng xã hội toàn cầu?",
+    "options": [
+      "Tôn trọng quan điểm đa dạng, không chia sẻ tin giả (fake news) và bảo mật thông tin cá nhân",
+      "Bình luận công kích, miệt thị ngoại hình người khác",
+      "Chia sẻ các đường link độc hại, lừa đảo",
+      "Tạo tài khoản giả mạo người khác để bôi nhọ"
+    ],
+    "correct": 0,
+    "explanation": "Công dân số văn minh luôn kiểm chứng thông tin, tôn trọng khác biệt văn hóa, ứng xử lịch sự và chủ động bảo vệ dữ liệu cá nhân trên Internet."
+  },
+  {
+    "id": "q29",
+    "part": 2,
+    "category": "Khẩu hiệu ASEAN",
+    "level": "A2",
+    "question": "Khẩu hiệu (Motto) chính thức của Cộng đồng ASEAN là gì?",
+    "options": [
+      "\"One Vision, One Identity, One Community\" (Một tầm nhìn, Một bản sắc, Một cộng đồng)",
+      "\"Peace, Love and Freedom\"",
+      "\"Economy First, Culture Later\"",
+      "\"Together Stronger Forever\""
+    ],
+    "correct": 0,
+    "explanation": "Khẩu hiệu chính thức được nêu trong Hiến chương ASEAN là 'One Vision, One Identity, One Community' (Một tầm nhìn, Một bản sắc, Một cộng đồng)."
+  },
+  {
+    "id": "q30",
+    "part": 2,
+    "category": "Thành viên ASEAN",
+    "level": "A1",
+    "question": "Quốc gia nào sau đây được biết đến với danh xưng \"Đảo quốc Sư tử\" trong khối ASEAN?",
+    "options": [
+      "Singapore",
+      "Philippines",
+      "Indonesia",
+      "Việt Nam"
+    ],
+    "correct": 0,
+    "explanation": "Singapore nổi tiếng thế giới với biểu tượng Merlion (đầu sư tử mình cá) và được gọi là 'Đảo quốc Sư tử'."
+  }
+]
